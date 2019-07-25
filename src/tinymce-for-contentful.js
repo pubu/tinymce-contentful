@@ -1,5 +1,8 @@
 window.contentfulExtension.init(function(api) {
   function tinymceForContentful(api) {
+    
+    console.log(api);
+    
     api.window.startAutoResizer();
 
     function tweak(param) {
