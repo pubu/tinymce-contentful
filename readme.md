@@ -45,6 +45,6 @@ so you'll have to put in your API key and staging URL again.
 To install the extension into Contentful, add an extension using the 
 "Install from Github" option, and enter the following URL: 
 
-https://github.com/tinymce/tinymce-contentful/blob/master/extension.json
+https://github.com/pubu/tinymce-contentful/blob/master/extension.json
 
 
