@@ -25,6 +25,7 @@ window.contentfulExtension.init(function(api) {
       min_height: 300,
       autoresize_bottom_margin: 15,
       resize: false,
+      tinydrive_token_provider: api.parameters.installation.drive_token_provider,
       init_instance_callback : function(editor) {
         var listening = true;
 
